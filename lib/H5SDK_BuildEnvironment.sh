@@ -9,11 +9,11 @@ if [ -z $TOP_ROOT ]; then
 fi
 
 # Github
-kernel_GITHUB="https://github.com/OrangePiLibra/OrangePiH5_kernel.git"
-uboot_GITHUB="https://github.com/OrangePiLibra/OrangePiH5_uboot.git"
-scripts_GITHUB="https://github.com/OrangePiLibra/OrangePiH5_scripts.git"
-external_GITHUB="https://github.com/OrangePiLibra/OrangePiH5_external.git"
-toolchain="https://codeload.github.com/OrangePiLibra/OrangePiH5_toolchain/zip/master"
+kernel_GITHUB="https://github.com/shadowlamer/OrangePiH5_kernel.git"
+uboot_GITHUB="https://github.com/shadowlamer/OrangePiH5_uboot.git"
+scripts_GITHUB="https://github.com/shadowlamer/OrangePiH5_scripts.git"
+external_GITHUB="https://github.com/shadowlamer/OrangePiH5_external.git"
+toolchain="https://codeload.github.com/shadowlamer/OrangePiH5_toolchain/zip/master"
 
 # Prepare dirent
 Prepare_dirent=(
